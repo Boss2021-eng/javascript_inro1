@@ -1,5 +1,5 @@
 let my_name = "Damilola Olatayo"
-let my_height = "175cm"
+let my_height = "1.75m"
 let my_country = "Nigeria"
 
 str1 = " My name is " + my_name
