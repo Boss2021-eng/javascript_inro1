@@ -2,9 +2,9 @@ let my_name = "Damilola Olatayo"
 let my_height = "1.75m"
 let my_country = "Nigeria"
 
-str1 = " My name is " + my_name
-str2 = " My height is " + my_height
-str3 = " My country is " + my_country
+document.write("My name is: " + my_name)
+document.write("<br>")
+document.write("My height is: " + my_height)
+document.write("<br>")
+document.write("My country is: " + my_country)
 
-
-alert( str1 + "\n" + str2 + "\n" + str3)
